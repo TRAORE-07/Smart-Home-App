@@ -1,6 +1,10 @@
 # Smart-Home-App
-An UI design of a smart home app.
-This design has been done using figma, coolors (for the color palettes), flaticon (for the icons), and pexel (for the images).
+- An UI design of a smart home app.
+- This design has been done using:
+  - figma (for the design),
+  - coolors (for the color palettes),
+  - flaticon (for the icons),
+  - and pexel (for the images).
 
 ![1st Parts](https://github.com/user-attachments/assets/d6f47991-cf91-4005-b102-cbc6720f9770)
 ![2nd Parts](https://github.com/user-attachments/assets/b05bef4c-17cc-4f28-a83b-fa20ded66fb3)
